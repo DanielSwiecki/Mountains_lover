@@ -10,7 +10,7 @@ Responsywna strona wizytówkowa o tematyce górskiej. Projekt pokazuje składani
 [![Heroicons](https://img.shields.io/badge/Heroicons-2-0EA5E9?style=flat-square&logo=heroicons&logoColor=white)](https://heroicons.com/)
 [![Firebase Hosting](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/hosting)
 
-**Demo:** [vue-app-b5141.web.app](https://vue-app-b5141.web.app/)
+
 
 ## Co widać na stronie
 
